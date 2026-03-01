@@ -110,9 +110,9 @@ Having established what a single observer cannot see, the series moves to what b
 ## Status
 
 | Paper | Status | DOI | GitHub Mirror |
-|---|---|---|
+|---|---|---|---|
 | SFE-05.12b / 05.13b | Confirmed ✓ — frozen | [10.5281/zenodo.18808974](https://doi.org/10.5281/zenodo.18808974) | [Mirror](doc/sfe_v8.pdf) |
-| SFE-06 (v3, through 06.7) | Confirmed ✓ — ready to freeze | — | [Mirror](doc/sfe_06_v3.pdf) |
+| SFE-06 (v3, through 06.7) | Confirmed ✓ — ready to freeze | | [Mirror](doc/sfe_06_v3.pdf) |
 | SFE-07 | Open — derive or falsify f(k) from OU covariance | — | — |
 
 ---
