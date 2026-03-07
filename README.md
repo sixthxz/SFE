@@ -1,6 +1,6 @@
-# SFE
-
-Independent research
+# SFE - Independent Research Program
+## This repo has been archived. 
+For latest updates go to [SFE-core](https://github.com/SFE-core/SFE)
 
 ---
 
